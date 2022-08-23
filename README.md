@@ -73,3 +73,12 @@
 - 표로 비교하기 기능 추가
 
 ## **1.3.2** - 22-08-21
+
+### Added
+- Airbridge, Mixpanel, Firebase SDK EventLog 추가
+
+### Changed
+- 온보딩 페이지 이미지 수정
+
+### Fixed
+-   회원가입 정보 서버에 안올라가는 현상 개선
